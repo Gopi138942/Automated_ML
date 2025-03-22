@@ -6,7 +6,7 @@
 **Project Title**: AutoML System for Data Science Automation  
 **Level**: Advanced  
 **Technology**: Machine Learning, Python, Auto-sklearn, H2O.ai, Optuna, Scikit-learn, TensorFlow, FastAPI
-
+**License**: [MIT License](LICENSE)
 This project aims to build an **end-to-end AutoML system** that automates the entire machine learning pipeline, from data preprocessing to model selection, hyperparameter tuning, and deployment. The goal is to replicate the tasks typically performed by a data scientist, automating the workflow to make machine learning more accessible and efficient.
 
 ## Objectives
@@ -60,15 +60,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Example Code
+## Author
 
-### **1. Data Preprocessing**
+This project is developed and maintained by **Gopichandh Gurram**. If you have any questions or would like to collaborate, feel free to reach out!
 
-```python
-from automl.preprocessing import preprocess_data
+### Stay Updated!
 
-# Load your dataset
-df = pd.read_csv('your_data.csv')
+For updates and future developments:
 
-# Preprocess the data
-X, y = preprocess_data(df, target='target_column')
+- [LinkedIn](www.linkedin.com/in/gopichandh-gurram)
+- [GitHub](https://github.com/Gopi138942)
+
+---
+
+
+Thank you for supporting the project!
+
